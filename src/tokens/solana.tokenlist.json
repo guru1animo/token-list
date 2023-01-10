@@ -85900,11 +85900,11 @@
     },
     {
       "chainId": 101,
-      "address": "aPwnnqozXpdnQ3M5spxcoWRBxF7WWTfADwuLYaeUyUh",
-      "symbol": "SWK",
-      "name": "Sarawak",
-      "decimals": 0,
-      "logoURI": "https://raw.githubusercontent.com/kevjacob/sarawak/main/logo.png",
+      "address": "Cy3V79M87xsgi6J86AhrcwGr55LpP6ncJpwcgWhBtUyy",
+      "symbol": "STRES",
+      "name": "STRESS CAPITAL",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/0xx0MM/logo/main/STRESS.png",
       "tags": [
         "social-token"
       ]
